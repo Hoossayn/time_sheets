@@ -1,0 +1,12 @@
+{
+  "actionLogin": "Log in",
+  "labelTimers": "Timers",
+  "labelProjects": "Projects",
+  "labelSettings": "Settings",
+  "createTimer": "Create Timer",
+  "project": "Project",
+  "task": "Task",
+  "makeFavourite": "Make Favorite",
+  "description": "Description",
+  "timerCreated": "Timer Created Successfully"
+  }
